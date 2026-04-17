@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-	<info name="World War I 1914 Improved" version="1.4"/>
+	<info name="World War I 1914 Improved" version="1.5"/>
 	
 	<loader javaClass="games.strategy.triplea.TripleA"/>
 	
-	<triplea minimumVersion="1.8"/>
+	<triplea minimumVersion="2.7.1"/>
 	
 	<diceSides value="6"/>
 
